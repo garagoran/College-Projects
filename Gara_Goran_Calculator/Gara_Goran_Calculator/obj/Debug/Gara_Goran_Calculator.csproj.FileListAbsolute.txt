@@ -1,0 +1,10 @@
+E:\college program tests\Gara_Goran_Calculator\Gara_Goran_Calculator\obj\Debug\Gara_Goran_Calculator.csproj.AssemblyReference.cache
+E:\college program tests\Gara_Goran_Calculator\Gara_Goran_Calculator\obj\Debug\Gara_Goran_Calculator.Calculator.resources
+E:\college program tests\Gara_Goran_Calculator\Gara_Goran_Calculator\obj\Debug\Gara_Goran_Calculator.Properties.Resources.resources
+E:\college program tests\Gara_Goran_Calculator\Gara_Goran_Calculator\obj\Debug\Gara_Goran_Calculator.csproj.GenerateResource.cache
+E:\college program tests\Gara_Goran_Calculator\Gara_Goran_Calculator\obj\Debug\Gara_Goran_Calculator.csproj.CoreCompileInputs.cache
+E:\college program tests\Gara_Goran_Calculator\Gara_Goran_Calculator\bin\Debug\Gara_Goran_Calculator.exe.config
+E:\college program tests\Gara_Goran_Calculator\Gara_Goran_Calculator\bin\Debug\Gara_Goran_Calculator.exe
+E:\college program tests\Gara_Goran_Calculator\Gara_Goran_Calculator\bin\Debug\Gara_Goran_Calculator.pdb
+E:\college program tests\Gara_Goran_Calculator\Gara_Goran_Calculator\obj\Debug\Gara_Goran_Calculator.exe
+E:\college program tests\Gara_Goran_Calculator\Gara_Goran_Calculator\obj\Debug\Gara_Goran_Calculator.pdb
